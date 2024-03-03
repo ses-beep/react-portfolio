@@ -1,3 +1,4 @@
+import React from "react";
 import projectOne from "../assets/project-1.png";
 import projectTwo from "../assets/project-2.png";
 import projectThree from "../assets/project-3.png";
@@ -8,11 +9,10 @@ const projects = {
     title: "Car-Showcase",
     image: projectOne,
     description: (
-      <>
-        <p>
+      <p>
          A state-of-the-art modern application that is mobile responsive and utilizes all of the latest and greatest of what Next 14 has to offer, leveraging features such as server-side rendering and the app router: React, Next.js 14, Typescript, Tailwind CSS. 
-        </p>
-      </>
+      </p>
+      
     ),
     github: "https://github.com/ses-beep/car-showcase/tree/main",
     demo: "https://papaya-ganache-58ab71.netlify.app",
