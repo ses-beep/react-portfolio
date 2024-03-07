@@ -29,10 +29,6 @@ const skills = {
       level: 4,
     },
     {
-      title: "MongoDB",
-      level: 2,
-    },
-    {
       title: "Git",
       level: 4,
     },

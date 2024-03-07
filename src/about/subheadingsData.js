@@ -15,13 +15,11 @@ const subheadingsData = {
   ],
   2: [
     {
-      title: "Self-Taught Developer (Autodidact)",
+      title: "Self Taught(Autodidact)",
       content: (
-        <>
           <p>
             I have embraced a hands-on approach to learning, diving headfirst into the world of programming and technology. Through self-directed study, online courses, tutorials, and extensive experimentation, I have acquired a comprehensive understanding of various programming languages, frameworks, and tools.While I may not have a formal degree in computer science, my dedication to continuous learning and self-improvement is evident in the quality of my work and the projects I have undertaken.
           </p>
-        </>
       ),
     },
   ],
